@@ -41,7 +41,7 @@ response.json()["data"][0]['imageUrls'][0]['original']
 
 ![image-20230910133814148.png](README/image-20230910133814148.png)
 
-![image-20230910133823700.png](C:\Users\yyn19\Desktop\code\download_imges\README\image-20230910133823700.png)
+![image-20230910133823700.png](README/image-20230910133823700.png)
 
 图中方框处就是相同的部分，因此我们可以通过列表的切片将其拼接，这样我们就可以得到可以用的图片下载url了。
 
